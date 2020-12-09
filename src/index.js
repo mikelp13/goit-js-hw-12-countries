@@ -1,2 +1,2 @@
-// import './js/notification';
+import './js/notification';
 import './styles.css';
